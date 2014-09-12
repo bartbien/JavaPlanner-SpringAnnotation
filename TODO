@@ -1,0 +1,7 @@
+in WEB-INF/lib folder javaplanner-1.5.jar lib needs to be decompiled and rewrote 
+
+-> classes related to hibernate mapping:
+DHXEvent
+DHXEventRec 
+
+-> then it'll be possible to use fully annotation mapping
